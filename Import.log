@@ -1,0 +1,107 @@
+﻿Timestamp	Filename	Error	Message
+2013-07-17 18:14:55.090 -0700	Get Record Table.fmp12	0	Import operations started
+2013-07-17 18:14:55.092 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:55.120 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 2” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:55.122 -0700	Table 2	0	fields imported : 1
+2013-07-17 18:14:55.123 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:55.123 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:55.724 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:55.726 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 3” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:55.728 -0700	Table 3	0	fields imported : 1
+2013-07-17 18:14:55.729 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:55.729 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:56.131 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:56.132 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 4” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:56.134 -0700	Table 4	0	fields imported : 1
+2013-07-17 18:14:56.135 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:56.135 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:56.378 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:56.380 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 5” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:56.382 -0700	Table 5	0	fields imported : 1
+2013-07-17 18:14:56.382 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:56.382 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:56.609 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:56.610 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 6” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:56.612 -0700	Table 6	0	fields imported : 1
+2013-07-17 18:14:56.612 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:56.612 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:56.829 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:56.830 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 7” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:56.833 -0700	Table 7	0	fields imported : 1
+2013-07-17 18:14:56.833 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:56.834 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:57.036 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:57.037 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 8” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:57.039 -0700	Table 8	0	fields imported : 1
+2013-07-17 18:14:57.039 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:57.040 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:57.263 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:57.264 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 9” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:57.267 -0700	Table 9	0	fields imported : 1
+2013-07-17 18:14:57.267 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:57.267 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:57.481 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:57.482 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 10” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:57.485 -0700	Table 10	0	fields imported : 1
+2013-07-17 18:14:57.485 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:57.485 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:57.688 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:57.690 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 11” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:57.692 -0700	Table 11	0	fields imported : 1
+2013-07-17 18:14:57.693 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:57.693 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:57.901 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:57.902 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 12” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:57.904 -0700	Table 12	0	fields imported : 1
+2013-07-17 18:14:57.905 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:57.905 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:58.096 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:58.097 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 13” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:58.099 -0700	Table 13	0	fields imported : 1
+2013-07-17 18:14:58.099 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:58.099 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:58.318 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:58.319 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 14” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:58.321 -0700	Table 14	0	fields imported : 1
+2013-07-17 18:14:58.322 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:58.322 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:58.531 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:58.532 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 15” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:58.534 -0700	Table 15	0	fields imported : 1
+2013-07-17 18:14:58.535 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:58.535 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:58.758 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:58.759 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 16” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:58.763 -0700	Table 16	0	fields imported : 1
+2013-07-17 18:14:58.763 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:58.763 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:58.988 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:58.990 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 17” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:58.992 -0700	Table 17	0	fields imported : 1
+2013-07-17 18:14:58.992 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:58.992 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:59.179 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:59.181 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 18” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:59.184 -0700	Table 18	0	fields imported : 1
+2013-07-17 18:14:59.184 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:59.184 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:59.372 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:59.375 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 19” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:59.377 -0700	Table 19	0	fields imported : 1
+2013-07-17 18:14:59.377 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:59.378 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:14:59.582 -0700	Get Record Table.fmp12	0	Import of tables from clipboard started
+2013-07-17 18:14:59.583 -0700	Get Record Table.fmp12	0	Table “Table 1” imported as “Table 20” since a table or table occurrence named “Table 1” already exists.
+2013-07-17 18:14:59.585 -0700	Table 20	0	fields imported : 1
+2013-07-17 18:14:59.586 -0700	Get Record Table.fmp12	0	tables imported : 1
+2013-07-17 18:14:59.586 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:15:02.890 -0700	Get Record Table.fmp12	0	Import operations committed
+2013-07-17 18:15:02.890 -0700	Get Record Table.fmp12	0	==================================================================
+2013-07-17 18:18:55.388 -0700	Get Record Table.fmp12	0	Import of scripts from clipboard started
+2013-07-17 18:18:55.391 -0700	Get Record Table.fmp12	0	Script “GetRecordTable ( id_record )” imported as “GetRecordTable ( id_record ) 2” since a script named “GetRecordTable ( id_record )” already exists.
+2013-07-17 18:18:55.401 -0700	GetRecordTable ( id_record ) 2	0	script steps imported : 32
+2013-07-17 18:18:55.402 -0700	Get Record Table.fmp12	0	scripts imported : 1
+2013-07-17 18:18:55.403 -0700	Get Record Table.fmp12	0	Import completed
+2013-07-17 18:25:00.919 -0700	Get Record Table.fmp12	0	Import of script steps from clipboard started
+2013-07-17 18:25:00.921 -0700	GetRecordTable ( id_record ) 2	0	script steps imported : 1
+2013-07-17 18:25:00.922 -0700	Get Record Table.fmp12	0	Import completed
